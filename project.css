@@ -1,0 +1,48 @@
+/* Styling the HTML project*/
+body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;/*To give the color more of a bolder look*/
+  font-size: 17px; /*For the viewers that have a hard time seeing*/
+  line-height: 2;
+  color: rgb(42, 116, 235);/*To increase the vibe of the webpage*/
+  background-color: black; /* To give it a calming look*/
+}
+
+h1{
+  font-family: italic; /*To give it more of a professional look*/
+  text-align: center;/* The veiewer Clearly knows what webpage he is in*/
+  text-shadow: 3px 3px 5px rgba(159, 168, 197, 0.7);
+}
+
+/* Styling for sub-sub-heading */
+h3
+
+/* Styling for paragraph */
+p
+{
+  font-size: 1rem; /* I want the paragraph to pop */
+}
+
+/* Styling for hyperlinks */
+a
+{
+  text-decoration: none; /* Removing default underline from links */
+  color: #c38ae3; /* A slightly lighter shade for links for better distinction */
+}
+
+/* Styling for list items */
+li
+{
+  font-size: 0.9rem; 
+}
+
+/* Styling for table */
+table
+{
+  font-size: 0.9rem; 
+}
+
+/* Styling for form */
+form
+{
+  font-size: 0.9rem; /* Set the same font size as paragraphs */
+}
